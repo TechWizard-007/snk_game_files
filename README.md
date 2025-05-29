@@ -4,8 +4,15 @@ A Retro Snake Game 😉🐍
 
 # Snake Game
 
-This is a snake game with a retro style and funny music and sounds. The goal of the game is to control the snake as it eats the food and avoids the obstacles. The game has different levels of difficulty and challenges. ![SnakeNokiaGIF](https://github.com/user-attachments/assets/51793f74-94fc-466f-bbf3-2ab3eebf3dc6)
-![MidgarZolomFinalFantasy7GIF](https://github.com/user-attachments/assets/69ecae11-cc84-45ed-abab-a13b61b98c31)
+This is a snake game with a retro style and funny music and sounds. The goal of the game is to control the snake as it eats the food and avoids the obstacles. The game has different levels of difficulty and challenges. 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51793f74-94fc-466f-bbf3-2ab3eebf3dc6" width="400" height="300"/>
+</p>
+
+ 
+
+![SnakeNokiaGIF]()
 
 
 ## How to download and run  
