@@ -32,7 +32,7 @@ To download and run the game, you need to follow these steps:
 
 ## How to play 🎮
 
-To play the game, you need to use the arrow keys 🕹️ or the mouse to move the snake. You can also press spacebar or click on the screen to make the snake eat the food. Be careful not to hit the walls or your own body. <img src = "https://github.com/user-attachments/assets/855f0109-b8d4-4dfc-bce0-21ed036dcd11" width = "600"/>
+To play the game, you need to use the arrow keys 🕹️ or the mouse to move the snake. You can also press spacebar or click on the screen to make the snake eat the food. Be careful not to hit the walls or your own body. <p align = "center"> <img src = "https://github.com/user-attachments/assets/855f0109-b8d4-4dfc-bce0-21ed036dcd11" width = "300"/> </p>
 
 
 ## Fun features
