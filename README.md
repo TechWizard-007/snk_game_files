@@ -8,7 +8,7 @@ This is a snake game with a retro style and funny music and sounds. The goal of 
 ![MidgarZolomFinalFantasy7GIF](https://github.com/user-attachments/assets/69ecae11-cc84-45ed-abab-a13b61b98c31)
 
 
-## How to download and run   <img src="![XdsaGIF](https://github.com/user-attachments/assets/fd38ae4e-aa83-4109-82c4-8e4af3cbd024)" width="400" height="300"/>
+## How to download and run   <img src=![XdsaGIF](https://github.com/user-attachments/assets/fd38ae4e-aa83-4109-82c4-8e4af3cbd024) width="400" height="300"/>
  
 
 
