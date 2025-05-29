@@ -12,7 +12,7 @@ This is a snake game with a retro style and funny music and sounds. The goal of 
 
  
 
-![SnakeNokiaGIF]()
+
 
 
 ## How to download and run  
